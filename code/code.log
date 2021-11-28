@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F452 -DL -O11111114 -fo4 -N"E:\Software and Electronic wilcom\PROGRAMS\2 way comunication with keypab\code\code.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\Software and Electronic wilcom\PROGRAMS\2 way comunication with keypab\code\" -SP"E:\Software and Electronic wilcom\PROGRAMS\MOBILE LIKE KEYPAD\" "main.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Conversions.mcl" "__Lib_Keypad4x4.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 234 ms	 
+diagnostics: 0	122	Compilation Started	main.c
+warning: 120	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	main.c
+diagnostics: 609	123	Compiled Successfully	main.c
+diagnostics: 0	127	All files Compiled in 360 ms	 
+hint: 0	1144	Used RAM (bytes): 174 (11%)  Free RAM (bytes): 1341 (89%)	Used RAM (bytes): 174 (11%)  Free RAM (bytes): 1341 (89%)
+hint: 0	1144	Used ROM (bytes): 3219 (10%)  Free ROM (bytes): 29549 (90%)	Used ROM (bytes): 3219 (10%)  Free ROM (bytes): 29549 (90%)
+diagnostics: 0	125	Project Linked Successfully	code.mcppi
+diagnostics: 0	128	Linked in 203 ms	 
+diagnostics: 0	129	Project 'code.mcppi' completed: 1032 ms	 
+diagnostics: 0	103	Finished successfully: 22 Mar 2012, 16:12:22	code.mcppi
